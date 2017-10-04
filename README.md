@@ -32,6 +32,8 @@ We don't want to repeat that content, _go read the original!_
 - **GitHub** : (web: [github.com](https://github.com))
 - **GitLab** : (web: [gitlab.com](https://gitlab.com))
 - **Neocities** : (web: [neocities.org](https://neocities.org))
+### Free for Open Source Projects
+- **Netlify** : (web: [Netlify.com](https://www.netlify.com/))
 
 ## Commercial hosting
 - **Aerobatic** : (web: [aerobatic.com](http://www.aerobatic.com))
